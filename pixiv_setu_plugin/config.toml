@@ -1,0 +1,12 @@
+[plugin]
+name = "pixiv_setu_plugin"
+version = "1.0.0"
+enabled = true
+description = "根据关键词或随机从Lolicon API获取P站图片"
+
+[cache]
+expire_hours = 2
+max_image_size = 1048576  # 单位: 字节，默认1MB，可根据需要调整
+
+[logging]
+level = "INFO"
