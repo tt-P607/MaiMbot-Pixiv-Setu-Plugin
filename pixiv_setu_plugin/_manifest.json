@@ -6,6 +6,7 @@
   "author": {"name": "言柒和他的师傅一闪^ω^", "url": "https://github.com/tt-P607"},
   "homepage_url": "https://github.com/tt-P607/MaiMbot-Pixiv-Setu-Plugin",
   "repository_url": "https://github.com/tt-P607/MaiMbot-Pixiv-Setu-Plugin",
+  "host_application": {"min_version": "0.8.0", "max_version": "0.8.0"},
   "license": "MIT",
   "keywords": ["pixiv", "setu", "图片", "Lolicon API"],
   "categories": ["娱乐", "图片", "API"],
