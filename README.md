@@ -1,9 +1,13 @@
-# pixiv_setu_plugin
+## 项目来源
+本项目基于 [MaiMbot-Pixiv-Setu-Plugin](https://github.com/tt-P607/MaiMbot-Pixiv-Setu-Plugin)（作者：@tt-P607）修改，遵循原项目的 [MIT License](LICENSE)。
 
-根据关键词或随机从 Lolicon API 获取 P 站图片的插件。
+# pc_setu_plugin
+
+随机从本地PC发送图像的插件。
 
 ## 功能简介
-- 支持通过关键词或随机方式获取 Pixiv（P站）图片
+- 支持修改图像文件夹路径，定制专属图片
+- 不同类型的图像（".png", ".jpg", ".jpeg", ".gif", ".webp"）
 - 可自定义插件启用、缓存、日志等配置
 - 适用于娱乐、图片相关场景
 
